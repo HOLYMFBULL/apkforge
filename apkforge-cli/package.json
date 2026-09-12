@@ -1,6 +1,6 @@
 {
   "name": "apkforge",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Android APK build/rebuild CLI",
   "main": "index.js",
   "directories": {
@@ -15,5 +15,8 @@
   "type": "commonjs",
   "bin": {
     "apkforge": "bin/apkforge.js"
+  },
+  "dependencies": {
+    "@google/genai": "^2.22.0"
   }
 }

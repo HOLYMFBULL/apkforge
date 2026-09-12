@@ -1,0 +1,8 @@
+.git/
+.github/
+node_modules/
+*.tgz
+output.apk
+ai-test.txt
+delete-test.txt
+test-agent.js
