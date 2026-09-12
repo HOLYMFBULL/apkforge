@@ -1,0 +1,21 @@
+node_modules/
+*.apk
+*.aab
+*.tgz
+
+build/
+output/
+input/
+decoded/
+
+# Local test projects
+ai-test/
+generator-test/
+hello-app/
+multi-test/
+phase12-test/
+release-test/
+my\ test-app/
+
+# Local toolchain downloads/cache
+toolchain/android-platform.zip
